@@ -1,1 +1,9 @@
-
+# All files include
+# controllers
+# routes
+# .env (this file is sensitive)
+# index.js
+# package-lock.json
+# package.json
+# users.json
+# node_module (excluded)
