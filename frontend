@@ -1,1 +1,6 @@
-
+# All files include
+# public
+# src
+# package
+# package-lock
+# node_modules (excluded)
